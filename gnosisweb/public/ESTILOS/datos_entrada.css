@@ -1,0 +1,64 @@
+div {
+    background-color: white;
+    font-family: Kurland;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 300px;
+    padding: 20px; /* Ajustando el padding para dar espacio a los elementos */
+    display: flex;
+    flex-direction: column; /* Organizando los elementos en columna */
+    align-items: center; /* Centrando los elementos horizontalmente */
+}
+body {
+    background-color: hwb(182 37% 37%);
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}   
+label, input, button {
+    margin: 10px 0; /* Añadiendo margen entre los elementos */
+    font-family: Kurland;
+}
+
+button {
+    font-size: 16px;
+    border-radius: 5px;
+    width: 105px;
+    height: 45px;
+    background-color: crimson;
+    color: black;
+    transition: background-color 0.3s ease;
+}
+
+button:active {
+    transform: translateY(2px);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+button:hover {
+    background-color: rgb(43, 179, 43);
+    cursor: pointer;
+}
+
+textarea {
+    resize: none;
+    font-family: Kurland;
+}
+
+.btnPrincipal{
+    margin-right: 10px;
+    margin-top: 10px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.btnReg{
+    margin-left: 10px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}

@@ -1,0 +1,85 @@
+
+.desarrollador{
+    margin: 0 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    font-family: Kurland;
+    width: 105px;
+    height: 45px;
+    background-color: yellow;
+    color: black;
+    transition: background-color 0.3s ease;
+    word-wrap:initial;
+}
+.proyecto{
+    margin: 0 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    font-family: Kurland;
+    width:fit-content;
+    height:fit-content;
+    background-color: yellow;
+    color: black;
+    transition: background-color 0.3s ease;
+}
+
+.cerrarSesion{
+    margin-left: 10px;
+    margin-top: 10px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 16px;
+    border-radius: 5px;
+    font-family: Kurland;
+    width:fit-content;
+    height:fit-content;
+    background-color: yellow;
+    color: black;
+    transition: background-color 0.3s ease;
+}
+
+.RegistrarUsuario{
+    margin-right: 10px;
+    margin-top: 10px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-size: 16px;
+    border-radius: 5px;
+    font-family: Kurland;
+    width:fit-content;
+    height:fit-content;
+    background-color: yellow;
+    color: black;
+    transition: background-color 0.3s ease;
+}
+
+button:active{ 
+    transform:translateY(2px);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+button:hover{
+    background-color: yellowgreen;
+}
+  
+.seleccionar{
+    background-color: white;
+    font-family: Kurland;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 300px;
+    padding: 100px 110px;
+    display: flex;
+}
+
+body {
+    background-color: rgb(33, 203, 209);
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
