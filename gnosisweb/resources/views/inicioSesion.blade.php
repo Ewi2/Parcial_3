@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" href="/IMAGENES/Sig_interrogacion.jpg">
-    <link rel="stylesheet" href="/ESTILOS/sesion.css">
+    <link rel="stylesheet" href="/ESTILOS/sesionCSS.css">
 </head>
 <body>
 <button class="btnPrincipal" onclick="RegresarPrincipal()">Regresar</button>

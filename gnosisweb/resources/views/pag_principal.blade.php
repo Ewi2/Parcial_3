@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>Introduccion</title>
-  <link rel="stylesheet" href="/ESTILOS/estilos.css">
+  <link rel="stylesheet" href="/ESTILOS/estilosCSS.css">
   <link rel="icon" type="image/png" href="/IMAGENES/Logo.png">
   
 </head>

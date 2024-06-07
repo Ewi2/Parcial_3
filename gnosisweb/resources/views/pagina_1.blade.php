@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" href="/IMAGENES/Logo.png">
-    <link rel="stylesheet" href="/ESTILOS/estilo_mostrar_tablas.css">
+    <link rel="stylesheet" href="/ESTILOS/estiloMostrarTablasCSS.css">
     <title>pagina1</title>
 </head>
 <body>

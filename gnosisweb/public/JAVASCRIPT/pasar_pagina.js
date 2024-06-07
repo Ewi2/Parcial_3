@@ -41,6 +41,13 @@ function Mostrar_datos_equipo(){
     window.location.href = '/equipo'
 };
 
+function redirectToPage(selectElement) {
+    var selectedValue = selectElement.value;
+    if (selectedValue) {
+        window.location.href = selectedValue;
+    }
+}
+
 // function Alerta(){
 //     window.alert("Deje este campo vacio, se encuentra en desarrollo")
 // }
