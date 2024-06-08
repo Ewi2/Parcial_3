@@ -30,7 +30,7 @@
     <h1 class="titulo1">Creacion del mundo</h1>
 
     <div style="text-align: center;">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi3es0wwQpBT8OIog2wvjp_I_-tSOAeeB93w&s" alt="Imagen centrada" />
+        <img src="IMAGENES/Escenariofull1" alt="Imagen centrada"/>
     </div>
     <p class="ParrafosMu">La creacion del mundo se muestra de manera en la que el mundo y todos los sucesos del juego se realizan dentro de un garaje comun y normal, cada nivel se mostrara en miniatura
         en el que el personaje se encogera y podra recorer largo caminos y peleas a lo largo del nivel ademas de que cada nivel tendra escenarios estaticos en los que el usurio podra luchar sin tener
